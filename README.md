@@ -23,6 +23,6 @@ set LT_ACCESS_KEY="YOUR ACCESS KEY"
 
 ```
 $ npm i
-$ node test.js
+$ npm run single
 
 ```
